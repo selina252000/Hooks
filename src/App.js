@@ -11,7 +11,7 @@ const App = () => {
     
     // <HookState/>
     // <UseStateArray/>
- < UseEffect1/>
+     < UseEffect1/>
     
 
   )
